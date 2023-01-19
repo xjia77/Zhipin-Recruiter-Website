@@ -10,6 +10,6 @@
 * 4. backend: using Node + express + mongodb + socketIO and other technologies
 * 5. modular, component-based, engineering model development
 
-> The backend code is in the server folder
+The backend code is in the server folder.
 
 If you like it, please give me a star. Thank you!
