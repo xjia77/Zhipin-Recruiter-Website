@@ -12,4 +12,4 @@
 
 The backend code is in the server folder.
 
-If you like it, please give me a star. Thank you!
+If you like it, please give me a star. Thank you :)
